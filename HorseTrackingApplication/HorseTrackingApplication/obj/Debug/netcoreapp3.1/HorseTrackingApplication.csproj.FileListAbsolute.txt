@@ -1,0 +1,14 @@
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\HorseTrackingApplication\HorseTrackingApplication\bin\Debug\netcoreapp3.1\HorseTrackingApplication.exe
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\HorseTrackingApplication\HorseTrackingApplication\bin\Debug\netcoreapp3.1\HorseTrackingApplication.deps.json
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\HorseTrackingApplication\HorseTrackingApplication\bin\Debug\netcoreapp3.1\HorseTrackingApplication.runtimeconfig.json
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\HorseTrackingApplication\HorseTrackingApplication\bin\Debug\netcoreapp3.1\HorseTrackingApplication.runtimeconfig.dev.json
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\HorseTrackingApplication\HorseTrackingApplication\bin\Debug\netcoreapp3.1\HorseTrackingApplication.dll
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\HorseTrackingApplication\HorseTrackingApplication\bin\Debug\netcoreapp3.1\HorseTrackingApplication.pdb
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\HorseTrackingApplication\HorseTrackingApplication\obj\Debug\netcoreapp3.1\HorseTrackingApplication.csproj.AssemblyReference.cache
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\HorseTrackingApplication\HorseTrackingApplication\obj\Debug\netcoreapp3.1\HorseTrackingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\HorseTrackingApplication\HorseTrackingApplication\obj\Debug\netcoreapp3.1\HorseTrackingApplication.AssemblyInfoInputs.cache
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\HorseTrackingApplication\HorseTrackingApplication\obj\Debug\netcoreapp3.1\HorseTrackingApplication.AssemblyInfo.cs
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\HorseTrackingApplication\HorseTrackingApplication\obj\Debug\netcoreapp3.1\HorseTrackingApplication.csproj.CoreCompileInputs.cache
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\HorseTrackingApplication\HorseTrackingApplication\obj\Debug\netcoreapp3.1\HorseTrackingApplication.dll
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\HorseTrackingApplication\HorseTrackingApplication\obj\Debug\netcoreapp3.1\HorseTrackingApplication.pdb
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\HorseTrackingApplication\HorseTrackingApplication\obj\Debug\netcoreapp3.1\HorseTrackingApplication.genruntimeconfig.cache
